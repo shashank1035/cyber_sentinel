@@ -8,9 +8,9 @@
 
 ### Project Introdcuction 
 
-1. Cyberbullying is the act of using digital technology to harass, humiliate, or threaten someone. This can take many forms, including mean or threatening messages, spreading false information or rumors, or posting hurtful images or videos online.
+1. Cybersentinel is the act of using digital technology to harass, humiliate, or threaten someone. This can take many forms, including mean or threatening messages, spreading false information or rumors, or posting hurtful images or videos online.
 
-2. Cyberbullying is important because it can have serious and lasting effects on its victims. Because the internet is easily accessible and often anonymous, it can be easier for bullies to engage in this behavior and harder for victims to escape it. Cyberbullying can lead to feelings of anxiety, depression, and low self-esteem, and in extreme cases, it can even lead to suicide.
+2. Cybersentinel is important because it can have serious and lasting effects on its victims. Because the internet is easily accessible and often anonymous, it can be easier for bullies to engage in this behavior and harder for victims to escape it. Cyberbullying can lead to feelings of anxiety, depression, and low self-esteem, and in extreme cases, it can even lead to suicide.
 
 3. here This application can help in detecting the cyberbullying and can popup the message whenso ever found something offecnsive. As it have been through survey if a person get intimation of offensive message before they are about to text , Its a huge probability that they may revert back the text and can help in relieving the cyberbullying.
 
