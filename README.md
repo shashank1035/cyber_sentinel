@@ -1,4 +1,4 @@
-# Cyberbullying_Recognizer_and_Summarizer
+# Cyber_sentinel
 
 ## Software And Tools Requirements
 
